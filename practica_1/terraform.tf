@@ -1,3 +1,4 @@
+//local_file es un provider que nos permite administrar archivos locales con terraform
 resource "local_file" "foo" {
   content  = "foo!"
   filename = "${path.module}/foo.bar"
