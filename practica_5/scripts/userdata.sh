@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Este es un mensaje" > ~/mensaje.txt
+echo "Este es un mensaje desde consola " > ~/mensaje.txt
